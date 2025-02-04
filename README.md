@@ -1,8 +1,8 @@
-# **MamestagramのSupporter特典**
+# **Mamestagram Supporter**
 
 ## 目次
 
-[Banchoリーダーボード](#Banchoリーダーボード)
+* [Banchoリーダーボード](#Banchoリーダーボード)
 
 ## Banchoリーダーボード
 ### 機能
@@ -25,4 +25,6 @@ https://github.com/user-attachments/assets/2df5a955-ec9c-4f79-a245-be45c038985d
 
 ![image](https://github.com/user-attachments/assets/752df3b4-d06f-4ff1-824e-98bef20a3ce3)
 
-## 
+## フレンドリーダーボードの拡張
+
+
