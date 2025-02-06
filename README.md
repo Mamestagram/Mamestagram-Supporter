@@ -19,10 +19,20 @@ Mamestagramは、「これまでのosu!体験を一新するプライベート�
 高校生の頃から開発を続けて早二年。多くの方々のサポートのおかげで、ここまで運営を続けることができました。
 これからもプライベートサーバーの最前線を目指し、全力で開発を続けていきます。今後ともMamestagramをよろしくお願いいたします！
 
+<br>
+
 Hello! Thank you for always playing Mamestagram.  
 Mamestagram is a private osu! server that we, the developers, have been working on with full dedication, aiming to revolutionize the osu! experience.  
 It has been two years since we started developing this project back in high school. Thanks to the support of many people, we have been able to continue running it until now.  
 We will keep pushing forward to stay at the forefront of private server development. We appreciate your continued support for Mamestagram!
+
+<br>
+<br>
+
+<div align="right">
+   <img src="https://github.com/user-attachments/assets/07407e97-45d9-4eba-be38-425b724a9b68" width="13%" alt="Mames1" />
+</div>
+
 
 <p align="right">
 <strong>- Mames1 (Backend developer & founder)</strong>
