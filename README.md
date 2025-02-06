@@ -12,7 +12,7 @@
 2. [Why should I support Mamestagram?](#2-support-reason)
 3. [What perks do I get?](#3-feature)
 
-## 1. Introducation
+## 1. Introduction
 
 こんにちは！いつもMamestagramをプレイしていただきありがとうございます。
 Mamestagramは、「これまでのosu!体験を一新するプライベートサーバー」を目指して、開発者一同が全力で取り組んできたosu!のプライベートサーバーです。
