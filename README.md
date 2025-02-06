@@ -35,8 +35,26 @@ We will keep pushing forward to stay at the forefront of private server developm
 
 
 <p align="right">
-<strong>- Mames1 (Backend developer & founder)</strong>
+<strong><em>- Mames1 (Backend developer & founder)</em></strong
 </p>
+
+## 2. Why should I support Mamestagram?
+
+---
+**We Are Students Developing This Project!**
+- Every month, we cover the high server costs through donations and our own funds.
+- Running and maintaining the server requires substantial financial support.
+- Your donation helps keep the servers running smoothly.
+---
+**A Seamless, Ad-Free Experience**
+- The Mamestagram website is 100% ad-free for an uninterrupted experience.
+---
+**Reliable and Fast Performance**
+- We use high-performance hardware and continuously upgrade our servers as our community grows.
+- Your support allows us to expand and improve our services.
+---
+
+
 
 ## Banchoリーダーボード
 ### 機能
