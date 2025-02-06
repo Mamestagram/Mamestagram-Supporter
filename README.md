@@ -10,7 +10,7 @@
 
 1. [Introduction](#1-introduction)
 2. [Why should I support Mamestagram?](#2-why-should-i-support-mamestagram)
-3. [What perks do I get?](#3-feature)
+3. [Feature](#3-feature)
 
 ## 1. Introduction
 
