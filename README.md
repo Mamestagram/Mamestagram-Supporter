@@ -69,6 +69,7 @@
 The feature to use the Bancho leaderboard on Mamestagram as well.
 
 ---
+### Features
 * Retrieve the Bancho leaderboard for up to 100 players
 * Rankings by mod
 * Play replays
