@@ -2,9 +2,9 @@
   <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/mamesosu_background.png" width="60%" alt="Mamestagram Supporter" />
 </div>
 
-<h1 align="center">
+<h2 align="center">
 ❤️ Welcome to Mamestagram Supporter!
-</h1>
+</h2>
 
 ## Table of Contents
 
