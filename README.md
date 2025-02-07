@@ -75,9 +75,9 @@ The feature to use the Bancho leaderboard on Mamestagram as well.
 ---
 
 <p align="center">
-  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-global.png" width="300" />
-  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-mods.png" width="300" />
-  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-replay.png" width="505"/>
+  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-global.png" width="250" />
+  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-mods.png" width="250" />
+  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-replay.png" width="500"/>
 </p>
 
 
