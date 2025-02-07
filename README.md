@@ -69,12 +69,12 @@
 The feature to use the Bancho leaderboard on Mamestagram as well.
 
 ---
-### Features
+#### Features
 * Retrieve the Bancho leaderboard for up to 100 players
 * Rankings by mod
 * Play replays
 ---
-### Screenshots
+#### Screenshots
 <p align="center">
   <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-global.png" width="280" />
   <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-mods.png" width="280" />
@@ -84,4 +84,14 @@ The feature to use the Bancho leaderboard on Mamestagram as well.
 > [!NOTE]
 > This feature can be changed at any time with the **!lb bancho <on/off>** command.
 
+### 3.2 Expanded Friend Leaderboard
+#### About this feature
+By using this feature, you can change the friend leaderboard to various other leaderboards.
 
+---
+#### Features
+* Display Bancho leaderboard
+* Display leaderboard for failed scores only
+* Display clan leaderboard
+---
+#### Screenshots
