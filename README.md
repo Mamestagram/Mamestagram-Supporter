@@ -92,6 +92,18 @@ By using this feature, you can change the friend leaderboard to various other le
 #### Features
 * Display Bancho leaderboard
 * Display leaderboard for failed scores only
+* Display regular friend leaderboard
 * Display clan leaderboard
 ---
 #### Screenshots
+<p align="center">
+  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/fail-friend.png" width="280" />
+  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/fl-bancho.png" width="280" />
+</p>
+<p align="center">
+  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/fl-clan.png" width="280" />
+  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/fl-clan.png" width="280" />
+</p>
+
+> [!NOTE]
+> The leaderboard display can be changed with the **!lb friend <bancho/clan/fail/friend>** command.
