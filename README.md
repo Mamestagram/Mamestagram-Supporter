@@ -10,7 +10,7 @@
 
 1. [Introduction](#1-introduction)
 2. [Why should I support Mamestagram?](#2-why-should-i-support-mamestagram)
-3. [Feature](#3-feature)
+3. [What perks do I get?](#3-what-perks-do-i-get)
 
 ## 1. Introduction
 
@@ -54,10 +54,10 @@ We will keep pushing forward to stay at the forefront of private server developm
 - Your support allows us to expand and improve our services.
 ---
 
+## 3. What perks do I get?
 
-
-## Banchoリーダーボード
-### 機能
+### 3.1 Bancho Leaderboard
+#### Features
 BanchoのリーダーボードをMamestagramでも利用できる機能です。
 
 以下の機能が利用可能です
