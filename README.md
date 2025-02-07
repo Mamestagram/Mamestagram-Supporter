@@ -73,14 +73,14 @@ The feature to use the Bancho leaderboard on Mamestagram as well.
 * Rankings by mod
 * Play replays
 ---
-
+### Screenshots
 <p align="center">
   <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-global.png" width="280" />
   <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-mods.png" width="280" />
   <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-replay.png" width="560"/>
 </p>
 
-
 > [!NOTE]
 > This feature can be changed at any time with the **!lb bancho <on/off>** command.
+
 
