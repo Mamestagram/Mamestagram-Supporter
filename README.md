@@ -65,26 +65,22 @@
 ## 3. What perks do I get?
 
 ### 3.1 Bancho Leaderboard
-#### Features
-BanchoのリーダーボードをMamestagramでも利用できる機能です。
+#### About this feature
+The feature to use the Bancho leaderboard on Mamestagram as well.
 
-以下の機能が利用可能です
+---
+* Retrieve the Bancho leaderboard for up to 100 players
+* Rankings by mod
+* Play replays
+---
 
-* <ins>100人</ins>までのBanchoのリーダーボードを取得
-* アバターの閲覧
-* Mod別のランキング
-* リプレイの再生
-* リーダーボードへ掲載
+<p align="center">
+  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-global.png" width="225" />
+  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-mods.png" width="225" />
+  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/bancho-lb-replay.png" width="505"/>
+</p>
 
-https://github.com/user-attachments/assets/2df5a955-ec9c-4f79-a245-be45c038985d
 
-![スクリーンショット 2025-02-02 174905](https://github.com/user-attachments/assets/0343e6ae-ec76-470f-9e77-3e9845a5ab08)
-
-### 設定方法
-* ``!lb bancho on``をMomijiのチャットに入力します。
-
-![image](https://github.com/user-attachments/assets/752df3b4-d06f-4ff1-824e-98bef20a3ce3)
-
-## フレンドリーダーボードの拡張
-
+> [!NOTE]
+> This feature can be changed at any time with the **!lb bancho <on/off>** command.
 
