@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/68fe569c-3fd5-4604-acf3-04de1004c5f9" width="60%" alt="Mamestagram Supporter" />
+  <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/mamesosu_background.png" width="60%" alt="Mamestagram Supporter" />
 </div>
 
 <h1 align="center">
@@ -30,7 +30,7 @@ We will keep pushing forward to stay at the forefront of private server developm
 <br>
 
 <div align="right">
-   <img src="https://github.com/user-attachments/assets/07407e97-45d9-4eba-be38-425b724a9b68" width="13%" alt="Mames1" />
+   <img src="https://github.com/Mamestagram/Mamestagram-Supporter/blob/main/mames1.jpg" width="13%" alt="Mames1" />
 </div>
 
 
