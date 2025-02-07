@@ -14,17 +14,25 @@
 
 ## 1. Introduction
 
-こんにちは！いつもMamestagramをプレイしていただきありがとうございます。
-Mamestagramは、「これまでのosu!体験を一新するプライベートサーバー」を目指して、開発者一同が全力で取り組んできたosu!のプライベートサーバーです。
-高校生の頃から開発を続けて早二年。多くの方々のサポートのおかげで、ここまで運営を続けることができました。
-これからもプライベートサーバーの最前線を目指し、全力で開発を続けていきます。今後ともMamestagramをよろしくお願いいたします！
+<p align="left">
+  <em>
+    こんにちは！いつもMamestagramをプレイしていただきありがとうございます。
+    Mamestagramは、「これまでのosu!体験を一新するプライベートサーバー」を目指して、開発者一同が全力で取り組んできたosu!のプライベートサーバーです。
+    高校生の頃から開発を続けて早二年。多くの方々のサポートのおかげで、ここまで運営を続けることができました。
+    これからもプライベートサーバーの最前線を目指し、全力で開発を続けていきます。今後ともMamestagramをよろしくお願いいたします！
+  </em>
+</p>
 
 <br>
 
-Hello! Thank you for always playing Mamestagram.  
-Mamestagram is a private osu! server that we, the developers, have been working on with full dedication, aiming to revolutionize the osu! experience.  
-It has been two years since we started developing this project back in high school. Thanks to the support of many people, we have been able to continue running it until now.  
-We will keep pushing forward to stay at the forefront of private server development. We appreciate your continued support for Mamestagram!
+<p align="left">
+  <em>
+    Hello! Thank you for always playing Mamestagram.  
+    Mamestagram is a private osu! server that we, the developers, have been working on with full dedication, aiming to revolutionize the osu! experience.  
+    It has been two years since we started developing this project back in high school. Thanks to the support of many people, we have been able to continue running it until now.  
+    We will keep pushing forward to stay at the forefront of private server development. We appreciate your continued support for Mamestagram!
+  </em>
+</p>
 
 <br>
 <br>
@@ -35,7 +43,7 @@ We will keep pushing forward to stay at the forefront of private server developm
 
 
 <p align="right">
-<strong><em>- Mames1 (Backend developer & founder)</em></strong
+<strong><em>- Mames1 (Backend developer & founder)</em></strong>
 </p>
 
 ## 2. Why should I support Mamestagram?
